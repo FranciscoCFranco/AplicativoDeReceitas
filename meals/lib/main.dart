@@ -3,7 +3,6 @@ import 'package:meals/screens/meal_datail_screen.dart';
 import 'screens/categories_screen.dart';
 import 'screens/categorys_meels_screen.dart';
 import './utils/app_routes.dart';
-import 'screens/meal_datail_screen.dart';
 
 void main() {
   runApp(MyApp());
